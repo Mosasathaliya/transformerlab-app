@@ -129,7 +129,7 @@
     "electron-updater": "^6.3.0-alpha.6",
     "lucide-react": "^0.477.0",
     "monaco-themes": "^0.4.4",
-    "morgan": "~1.10.0",
+    "morgan": "~1.10.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-dropzone": "^14.3.8",
